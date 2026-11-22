@@ -1,1 +1,1 @@
-www.visa.cn:443#US-Mt-Pleasant-AT-T-Enterprises-LLC-Residential$socks5://06H00VR3C7IS4ST5BACJP39QRN3OIINGIC2HEUTAL91KJ31SV20POPU6FG:x@fireside.bringyour.com:7171
+www.visa.cn:443#US-Mt-Pleasant-AT-T-Enterprises-LLC-Residential$socks5://06H03LC5159JI5R20CHJA8UHVFBVG320T930QUAMJJ2838354F6I96QQOO:x@crisp.bringyour.com:7123
