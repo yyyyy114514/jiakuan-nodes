@@ -1,1 +1,1 @@
-www.visa.cn:443#US-Mt-Pleasant-AT-T-Enterprises-LLC-Residential$socks5://06H0A38FIJRC0E2LTOCJKSKHLE05SKNA00P1522JGHODD1B5G03UHDN82G:x@crisp.bringyour.com:7135
+www.visa.cn:443#US-Northbrook-Comcast-Cable-Communications-LLC-Residential$socks5://06H0FTKHS0QUGD8CPT0NFP1LIGRSU7EEK7UJIMTU8SA1837CRBM14N0KQK:x@crisp.bringyour.com:7123
