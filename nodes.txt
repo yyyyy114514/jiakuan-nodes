@@ -1,1 +1,1 @@
-www.visa.cn:443#US-Northbrook-Comcast-Cable-Communications-LLC-Residential$socks5://06H0FTKHS0QUGD8CPT0NFP1LIGRSU7EEK7UJIMTU8SA1837CRBM14N0KQK:x@crisp.bringyour.com:7123
+www.visa.cn:443#US-Midland-AT-T-Enterprises-LLC-Residential$socks5://06H0OKUB5TLFKMOH6LEBH7Q4E3T3G7U5BD63KUJG8DNHSS8A9SG300E5BO:x@fireside.bringyour.com:7117
